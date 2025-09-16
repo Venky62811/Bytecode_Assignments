@@ -5,7 +5,7 @@ abstract class Payment{
 	abstract String  verifyPayment();
  public void  generateTransactionId() {
 	 System.out.println("Return trasaction id ");
- }
+ 
  }
 }
 
